@@ -1,0 +1,11 @@
+C:\leekwanho\MacroProject\bin\Release\MacroProject.exe.config
+C:\leekwanho\MacroProject\bin\Release\MacroProject.exe
+C:\leekwanho\MacroProject\bin\Release\MacroProject.pdb
+C:\leekwanho\MacroProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\leekwanho\MacroProject\obj\x86\Release\MacroProject.AddForm.resources
+C:\leekwanho\MacroProject\obj\x86\Release\MacroProject.MainWindow.resources
+C:\leekwanho\MacroProject\obj\x86\Release\MacroProject.Properties.Resources.resources
+C:\leekwanho\MacroProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\leekwanho\MacroProject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\leekwanho\MacroProject\obj\x86\Release\MacroProject.exe
+C:\leekwanho\MacroProject\obj\x86\Release\MacroProject.pdb
